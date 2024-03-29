@@ -2,11 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05b79b78-af25-40d6-b1ff-b748008ec5fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/Array/Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/BankingPrj/BankingPrj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/BlockTest/BlockTest.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/BlockTest/src/BlockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/Border Layout/Border Layout.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/Encaptulation/Encaptulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/Example of inheritance and Encaptulation/Example of inheritance and Encaptulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/Fibonacci/Fibonacci.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/Grid Layout/Grid Layout.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/Grid Layout/src/Question.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/Grid Layout/src/QuizUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/Gui/Write to file.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/Inheritance/Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/Input from file/Input from file.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/InstanceOf operator/InstanceOf operator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/Invoking Overriding Methods/Invoking Overriding Methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/Invoking Parent Class Constructor/Invoking Parent Class Constructor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/Matrix mutiplication/Matrix mutiplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/Multidimentional array/Multidimentional array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/Overloading Methods/Overloading Methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/Overriding Methods/Overriding Methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/Polymorphism/Polymorphism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/Question/Question.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/Scanner/Scanner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/action listner/action listner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/assignment/assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/bankingPrj/bankingPrj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/casting/casting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/ct2 sol/ct2 sol.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/dmf tasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/example of abstract and interface/example of abstract and interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/flow layout/flow layout.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/loop/loop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/pyramid/pyramid.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/src/MyDate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/the _this_ reference/src/AddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/the _this_ reference/the _this_ reference.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011222262/dmf tasks/with scrollbar/with scrollbar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop romij sir/circle/circle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop romij sir/constructor and overloading/constructor and overloading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop romij sir/exercise1 of w3school/exercise1 of w3school.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop romij sir/methods and this/methods and this.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop romij sir/person/person.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop romij sir/question 1/question 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop/lab/lab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop/lab/lab2.3 project/lab2.3 project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop/lab/lab2.3 project/src/lab2.3 project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop/lab/lab2.3 project/src/out/production/lab2.3 project/lab2.3 project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop/lab/out/production/lab/lab2.3 project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fall22 q1" beforeDir="false" afterPath="$PROJECT_DIR$/fall22 q1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fall22 q1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fall22 q1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fall22 q1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/fall22 q1/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,23 +63,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2cznFJ8I7xV0bdyKOWrXryg2OJQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/sazisl/Desktop/oop practice"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/sazisl/Desktop/oop practice&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
