@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/circle/circle.iml" filepath="$PROJECT_DIR$/circle/circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/constructor and overloading/constructor and overloading.iml" filepath="$PROJECT_DIR$/constructor and overloading/constructor and overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise1 of w3school/exercise1 of w3school.iml" filepath="$PROJECT_DIR$/exercise1 of w3school/exercise1 of w3school.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods and this/methods and this.iml" filepath="$PROJECT_DIR$/methods and this/methods and this.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oop romij sir.iml" filepath="$PROJECT_DIR$/.idea/oop romij sir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/person/person.iml" filepath="$PROJECT_DIR$/person/person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/question 1/question 1.iml" filepath="$PROJECT_DIR$/question 1/question 1.iml" />
+    </modules>
+  </component>
+</project>
